@@ -41,19 +41,17 @@ I'm considering transitioning into game development because I enjoy how game are
 > TypeScript = 🟨
 >
 > LUA = 🟥
-
 </br>
 
 ### IDE:
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
 <br>
 
-> Visual Studio 2022 : Main IDE for my personnal projects
->
-> Vscode : Main IDE for 42 School projects
->
-> Vim : For a quick edit of a file
+- Visual Studio 2022 : Main IDE for my personnal projects
 
+- Vscode : Main IDE for 42 School projects
+
+- Vim : For a quick edit of a file
 </br>
 
 ### OS:
@@ -67,6 +65,7 @@ I'm considering transitioning into game development because I enjoy how game are
 
 </br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
