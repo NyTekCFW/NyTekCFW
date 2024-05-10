@@ -66,6 +66,10 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
+## <img src="https://giphy.com/embed/JIX9t2j0ZTN9S" width ="25">My Common Projects of 42  :
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
+
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/stonks.png" alt="stonks" width="5%"/> Stats:
 <div align=center>
 
