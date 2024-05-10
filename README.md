@@ -1,6 +1,6 @@
 # Hello, I'm Laurent, also known as NyTekCFW. 🧐
 
-![-----------------------------------------------------](https://github.com/NyTekCFW/NyTekCFW/tree/master/assets/line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
 ## Introduction:
 
