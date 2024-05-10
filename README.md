@@ -18,7 +18,7 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills & IDE
 
-### programming language used:
+### Programming language used:
 [![Skills](https://skillicons.dev/icons?i=c,cs,cpp,lua,typescript)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc" width="8%"/>
 
 
@@ -46,9 +46,27 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ### IDE:
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
+<br>
+
+> Visual Studio 2022 : Main IDE for my personnal projects
+>
+> Vscode : Main IDE for 42 School projects
+>
+> Vim : For a quick edit of a file
+
+</br>
 
 ### OS:
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+
+<br>
+
+> Ubuntu : 22.04.4 LTS / 23.10
+>
+> Windows : 11
+
+</br>
+
 
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
