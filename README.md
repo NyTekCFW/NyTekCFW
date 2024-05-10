@@ -21,6 +21,10 @@ I'm considering transitioning into game development because I enjoy how game are
 ### programming language used:
 [![Skills](https://skillicons.dev/icons?i=c,cs,cpp,powershell,typescript)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc" width="8%"/>
 
+
+### IDE:
+[![Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
+
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
 
