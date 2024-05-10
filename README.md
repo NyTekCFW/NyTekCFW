@@ -18,8 +18,8 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills & IDE (Integrated Development Environment)
 
-### Learned programming language:
-[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,powershell,typescript)](https://skillicons.dev)
+### programming language used:
+[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,powershell,typescript)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc_logo" width="30%">
 
 
 <div align=center>
