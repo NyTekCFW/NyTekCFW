@@ -19,8 +19,21 @@ I'm considering transitioning into game development because I enjoy how game are
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills & IDE
 
 ### programming language used:
-[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,powershell,typescript)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc" width="8%"/>
+[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,lua,typescript)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc" width="8%"/>
+<br>
 
+🟩 = Good level - Learning
+🟨 = Mid level - Learning
+🟥 = Beginner - Learning
+
+
+> C = 🟩
+> C# = 🟩
+> C++ = 🟩
+> GSC (Game Script Code / CoD Script) = 🟩
+> LUA = 🟨
+> TypeScript = 🟨
+</br>
 
 ### IDE:
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
