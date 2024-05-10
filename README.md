@@ -2,7 +2,7 @@
 
 ![-----------------------------------------------------](https://github.com/NyTekCFW/NyTekCFW/tree/master/assets/line.png)
 
-# Introduction:
+## Introduction:
 
 I'm a French developer and currently a Computer Science student at 42 School.
 
