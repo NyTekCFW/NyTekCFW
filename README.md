@@ -66,9 +66,10 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
-## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50"> My Personnal Projects :
-
 <!---
+
+
+
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50">School 42 Main Projects :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
@@ -76,9 +77,9 @@ I'm considering transitioning into game development because I enjoy how game are
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50">School 42 Related Projects :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
--->
-![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
+-->
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/stonks.png" alt="stonks" width="5%"/> Stats:
 <div align=center>
 
@@ -86,7 +87,7 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
 
-### [![OS](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Github
+### [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Github
 </div>
 <div align=left>
 
