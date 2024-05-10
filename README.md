@@ -1,4 +1,4 @@
-# Hello, I'm Laurent, also known as NyTekCFW. 🧐
+# Hello, I'm Laurent, also known as NyTekCFW.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
@@ -14,7 +14,10 @@ In 2018, I co-founded the SVSC Modding Team with some developer friends. This te
 
 I'm considering transitioning into game development because I enjoy how game are made and pushed thing at his limit😂
 
-![-----------------------------------------------------](https://github.com/NyTekCFW/NyTekCFW/tree/master/assets/line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills & IDE (Integrated Development Environment)
+
 
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
