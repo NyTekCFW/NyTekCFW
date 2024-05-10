@@ -66,8 +66,17 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
-## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50">My Common Projects of 42  :
+## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50"> My Personnal Projects :
 
+<!---
+## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50">School 42 Main Projects :
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
+
+## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/cat_work.gif" width ="50">School 42 Related Projects :
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
+-->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
 
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/stonks.png" alt="stonks" width="5%"/> Stats:
