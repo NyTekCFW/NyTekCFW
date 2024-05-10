@@ -69,14 +69,15 @@ I'm considering transitioning into game development because I enjoy how game are
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/stonks.png" alt="stonks" width="5%"/> Stats:
 <div align=center>
 
-### 42 School
+### <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/logo.png" alt="logo" width="3%"/>42 School
 
-<img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/logo.png" alt="logo" width="10%"/><a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
 
+### [![OS](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Github
 </div>
 <div align=left>
 
-[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&line_height=28&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&langs_count=4&hide_border=false&card_width=370&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&line_height=28&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&langs_count=4&hide_border=false&card_width=360&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
