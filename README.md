@@ -25,7 +25,7 @@ I'm considering transitioning into game development because I enjoy how game are
 </div>
 <div align=left>
 
-[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&line_height=27&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&line_height=27&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
