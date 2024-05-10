@@ -21,8 +21,8 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
+
 </div>
-
-[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align=left>
+[![NyTekCFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytekcfw&theme=dark&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nytekcfw&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
