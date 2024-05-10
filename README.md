@@ -30,17 +30,17 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <br>
 
-> C = 🟩
->
-> C# = 🟩
->
-> C++ = 🟩
->
-> GSC (Game Script Code / CoD Script) = 🟩
->
-> TypeScript = 🟨
->
-> LUA = 🟥
+- C = 🟩
+
+- C# = 🟩
+
+- C++ = 🟩
+
+- GSC (Game Script Code / CoD Script) = 🟩
+
+- TypeScript = 🟨
+
+- LUA = 🟥
 </br>
 
 ### IDE:
@@ -59,10 +59,9 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <br>
 
-> Ubuntu : 22.04.4 LTS / 23.10
->
-> Windows : 11
+- Ubuntu : 22.04.4 LTS / 23.10
 
+- Windows : 11
 </br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
