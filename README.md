@@ -20,19 +20,24 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ### programming language used:
 [![Skills](https://skillicons.dev/icons?i=c,cs,cpp,lua,typescript)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/gsc_logo.png" alt="gsc" width="8%"/>
-<br>
 
 🟩 = Good level - Learning
 🟨 = Mid level - Learning
 🟥 = Beginner - Learning
-
+<br>
 
 > C = 🟩
+>
 > C# = 🟩
+>
 > C++ = 🟩
+>
 > GSC (Game Script Code / CoD Script) = 🟩
-> LUA = 🟨
+>
 > TypeScript = 🟨
+>
+> LUA = 🟥
+
 </br>
 
 ### IDE:
