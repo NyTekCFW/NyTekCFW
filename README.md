@@ -69,7 +69,7 @@ I'm considering transitioning into game development because I enjoy how game are
 ## <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/stonks.png" alt="gsc" width="5%"/> Stats:
 <div align=center>
 
-### <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/badge42_logo.svg" alt="gsc" width="5%"/> 
+### <img src="https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/badge42_logo.png" alt="gsc" width="5%"/> 
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clw0td9ms6629001p41vn0zbmv/stats?cursusId=21&coalitionId=317" alt="lchiva's 42 stats" /></a>
 
 </div>
