@@ -18,7 +18,8 @@ I'm considering transitioning into game development because I enjoy how game are
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills & IDE (Integrated Development Environment)
 
-[![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) I learn C language with projects of School 42.
+### Learned Language at School 42
+[![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
 
 
 <div align=center>
