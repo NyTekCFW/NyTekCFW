@@ -44,7 +44,7 @@ I'm considering transitioning into game development because I enjoy how game are
 </br>
 
 ### IDE:
-[![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim,clion)](https://skillicons.dev)
 <br>
 
 - Visual Studio 2022 : Main IDE for my personnal projects
@@ -55,7 +55,7 @@ I'm considering transitioning into game development because I enjoy how game are
 </br>
 
 ### OS:
-[![OS](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,debian,windows)](https://skillicons.dev)
 
 <br>
 
