@@ -51,6 +51,8 @@ I'm considering transitioning into game development because I enjoy how game are
 
 - Vscode : Main IDE for 42 School projects
 
+- CLion : Potentialy my futur new main IDE for C and CPP projects
+
 - Vim : For a quick edit of a file
 </br>
 
@@ -59,7 +61,9 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <br>
 
-- Ubuntu : 22.04.4 LTS / 23.10
+- Ubuntu : Removed cause the 24.04 version is broken asf -_-
+
+- Debian : 12 (Better than Ubuntu 24.04 version 👀)
 
 - Windows : 11
 </br>
