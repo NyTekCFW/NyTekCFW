@@ -47,9 +47,7 @@ I'm considering transitioning into game development because I enjoy how game are
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,vim,clion)](https://skillicons.dev)
 <br>
 
-- Visual Studio 2022 : Main IDE for my personnal projects
-
-- Vscode : Main IDE for 42 School projects
+- Visual Studio 2026 / VSCode: Main IDEs for my projects
 
 - CLion : Potentialy my futur new main IDE for C and CPP projects
 
@@ -61,11 +59,10 @@ I'm considering transitioning into game development because I enjoy how game are
 
 <br>
 
-- Ubuntu : Removed cause the 24.04 version is broken asf -_-
-
-- Debian : 12 (Better than Ubuntu 24.04 version 👀)
+- Debian : 12.13.0
 
 - Windows : 11
+
 </br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/NyTekCFW/NyTekCFW/master/assets/line.png)
