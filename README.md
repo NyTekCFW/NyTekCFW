@@ -41,6 +41,8 @@ I'm considering transitioning into game development because I enjoy how game are
 - TypeScript = 🟨
 
 - LUA = 🟥
+
+- Rust = 🟥
 </br>
 
 ### IDE:
@@ -48,8 +50,6 @@ I'm considering transitioning into game development because I enjoy how game are
 <br>
 
 - Visual Studio 2026 / VSCode: Main IDEs for my projects
-
-- CLion : Potentialy my futur new main IDE for C and CPP projects
 
 - Vim : For a quick edit of a file
 </br>
