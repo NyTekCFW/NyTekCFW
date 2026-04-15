@@ -36,7 +36,7 @@ I'm considering transitioning into game development because I enjoy how game are
 
 - C++ = 🟩
 
-- GSC (Game Script Code / CoD Script) = 🟩
+- GSC (Call of Duty Game Script Code) = 🟩
 
 - TypeScript = 🟨
 
